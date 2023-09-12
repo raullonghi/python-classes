@@ -28,12 +28,12 @@ How to use
 
     #### Read
 
-    res = SqlServer().ler('select top 100 * from gtcconhe where dtemissao >= {}'.format('2023-01-01'))
-    
-    res = SqlServer().ler('''select getdate() data''')
+        res = SqlServer().ler('select top 100 * from gtcconhe where dtemissao >= {}'.format('2023-01-01'))
+        
+        res = SqlServer().ler('''select getdate() data''')
     
     
     #### Write
-    query = '''INSERT INTO PNXImpEtq (impressora, usuario) VALUES ('Datamax-Dev','userTest')'''
-    
-    res = SqlServer().gravar(query)
+        query = '''INSERT INTO PNXImpEtq (impressora, usuario) VALUES ('Datamax-Dev','userTest')'''
+        
+        res = SqlServer().gravar(query)
