@@ -3,7 +3,7 @@
 
 sqlserver
 ---------
-    The idea is to have a facilitator to read and record, without having to worry about other details, such as connection, for example.
+The idea is to have a facilitator to read and record, without having to worry about other details, such as connection, for example.
 
     Configure:
     
