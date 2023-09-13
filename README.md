@@ -1,5 +1,6 @@
 # python-classes
-    Here I am making my first Python classes available.
+
+Here I am making my first Python classes available.
 
 ## sqlserver
 
@@ -24,6 +25,7 @@ The idea is to have a facilitator to read and record, without having to worry ab
  
 
 ### How to use
+
 
 #### Read
 
